@@ -1,4 +1,4 @@
-Mapper is a project which purpose is to make easier the creation of board files from terrain images for the Newdemo project.
+Mapper is a project which purpose is to make easier the creation of the board files from terrain images for the Newdemo project.
 
 ## Menu
 Insert boardname, rows and columns of the terrain image that you want to open, and press the open button.
