@@ -1,12 +1,18 @@
-Mapper is a project which purpose is to make easier the creation of the board files from terrain images for the Newdemo project.
+## DemoNewMapper
 
-## Menu
-Insert boardname, rows and columns of the terrain image that you want to open, and press the open button.
-The terrain image has to be loaded in the terrain_images folder of the project.
+This is a supply project to ease the creation of txt files of boards for the DemoNew project.
 
-## Terrain
-Click on the tiles -> Color them: transparent = wall, red = empty.
-Press WASD -> Move the terrain image.
-Press X -> Save the terrain file in the project folder board_files.
+## Usage
+
+1) execute App.java
+2) Insert boardname, rows and columns of the terrain image that you want to open (the terrain image has to be loaded in the terrain_images folder of the project), and press open.
+
+## Commands
+
+1) Click on the tiles:
+    - Transparent = wall.
+    - Red = empty.
+2) Press WASD to move the terrain image.
+3) Press X to save the terrain file in the project folder board_files.
 
 
