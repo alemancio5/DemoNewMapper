@@ -1,8 +1,8 @@
-package main.java.app;
+package app;
 
 import javafx.application.Application;
 
-import main.java.view.View;
+import view.View;
 
 
 
